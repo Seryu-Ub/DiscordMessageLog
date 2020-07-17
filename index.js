@@ -48,4 +48,4 @@ bot.on('message', msg => {
     }
 })
 
-bot.login("NzI3NDcxMzI1OTIwMzYyNTU4.Xw7nsQ.9P8l-U89jvVkN5jCZKouSHex3z8")
+bot.login(process.env.TOKEN)
