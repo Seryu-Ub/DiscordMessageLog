@@ -12,9 +12,11 @@ What things you need to install the software and how to install them
 
 ```
 npm i discord.js@15.1.5
-
+```
+```
 npm i colors
-
+```
+```
 npm i figlet
 ```
 
@@ -31,9 +33,8 @@ You have at your disposal a "start.bat" which will automatically launch the prog
 
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733684772101947432/eftht.PNG)
 
-###### 🍨 Lunch the program 🍨
+###### 🍨 Example 🍨
 
 Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733688583528906772/Test.png)
 
-![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733684772101947432/eftht.PNG)
 
