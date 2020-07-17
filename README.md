@@ -27,13 +27,13 @@ Here is how to setup the program
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733687132543123486/tempsnip.png)
 
 
-##### 📺 Lunch the program 📺
+## 📺 Lunch the program 📺
 
 You have at your disposal a "start.bat" which will automatically launch the program. 
 
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733684772101947432/eftht.PNG)
 
-###### 🍨 Example 🍨
+## 🍨 Example 🍨
 
 Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733688583528906772/Test.png)
 
