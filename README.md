@@ -33,11 +33,11 @@ You have at your disposal a "start.bat" which will automatically launch the prog
 
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733684772101947432/eftht.PNG)
 
-## 🍨 Example 🍨
+### 🍨 Example 🍨
 
 Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733688583528906772/Test.png)
 
-###### 🌸 Lys 🌸
+##### 🌸 By Lys 🌸
 
 ![alt text](https://cdn.discordapp.com/avatars/655860167442694145/a_a4edf405908012410df4a5ae498580eb.gif?size=4096)
 
