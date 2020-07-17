@@ -4,7 +4,7 @@
 
 ## 🌈 Getting Started 🌈
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See setup for notes on how to deploy the project on a live system.
 
 ### 📋 Prerequisites 📋 
 
@@ -39,6 +39,5 @@ Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/7
 
 ##### 🌸 By Lys 🌸
 
-![alt text](https://cdn.discordapp.com/avatars/655860167442694145/a_a4edf405908012410df4a5ae498580eb.gif?size=4096)
-
 Kiss on you :p
+![alt text](https://cdn.discordapp.com/avatars/655860167442694145/a_a4edf405908012410df4a5ae498580eb.gif?size=4096)
