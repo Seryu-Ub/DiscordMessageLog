@@ -19,6 +19,7 @@
 ```
 Node.js 
 ```
+Npm : 
 ```
 npm i discord.js@15.1.5
 ```
