@@ -50,7 +50,7 @@ npm i figlet
 
 🇫🇷/🇺🇸: Resultat/Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733688583528906772/Test.png)
 
-##### 🌸 By Lys 🌸
+#### 🌸 By Lys 🌸
 
 🇫🇷 Bisou sur toi :p
 
