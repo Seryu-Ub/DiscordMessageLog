@@ -19,7 +19,6 @@
 ```
 Node.js 
 ```
-**https://nodejs.org/en/**
 ```
 npm i discord.js@15.1.5
 ```
