@@ -49,7 +49,7 @@ npm i figlet
 
 ##### 🌸 By Lys 🌸
 
-🇫🇷 Bisou sur toi
+🇫🇷 Bisou sur toi :p
 
 🇺🇸 Kiss on you :p
 
