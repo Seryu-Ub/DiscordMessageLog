@@ -1,0 +1,27 @@
+{
+      
+    "token":"Token_Here (The token of a user not of a bot)",
+    
+    "serveursniped":"[ID] The spy server",
+    
+    "channelsniped":"[ID] The spy channel",
+
+    "serverreceiving":"[ID] The server where the information is sent",
+
+    "channelreceiving":"[ID] The channel where the information is sent",
+
+    
+    "channelsniped2":"[ID] The spy channel 2",
+
+    "serverreceiving2":"[ID] The server where the information is sent 2",
+
+    "channelreceiving2":"[ID] The channel where the information is sent 2",
+
+
+    "channelsniped3":"[ID] The spy channel 3",
+
+    "serverreceiving3":"[ID] The server where the information is sent 3",
+
+    "channelreceiving3":"[ID] The channel where the information is sent 3"
+
+}
