@@ -14,9 +14,9 @@ This is done in self-bot mode. So there is a risk of banishment. I invite you to
 
 ### 📋 Prerequisites 📋 
 
-🇫🇷 Ce dont vous avez besoin pour installer le logiciel et comment l'installer
+🇫🇷 Ce dont vous avez besoin pour installer le logiciel et comment l'installer.
 
-🇺🇸 What things you need to install the software and how to install them
+🇺🇸 What things you need to install the software and how to install them.
 
 ```
 Node.js 
@@ -34,9 +34,9 @@ npm i figlet
 
 #### 🚀 Setup 🚀
 
-🇫🇷 Voici comment mettre en place le programme
+🇫🇷 Voici comment mettre en place le programme.
 
-🇺🇸 Here is how to setup the program
+🇺🇸 Here is how to setup the program.
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734452895445155920/REGRGR.PNG)
 
@@ -52,6 +52,12 @@ npm i figlet
 🇺🇸 You have at your disposal a "start.bat" which will automatically launch the program. 
 
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733684772101947432/eftht.PNG)
+
+🇫🇷 Si vous avez tout fait correctement vous devriez voir s'afficher ceci.
+
+🇺🇸 If you have done everything correctly you should see this.
+
+![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734454808685314098/unknown.png)
 
 ### 🍨 Example 🍨
 
