@@ -40,7 +40,7 @@ npm i figlet
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734452895445155920/REGRGR.PNG)
 
-![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734453728891109486/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/688355222304587791/735172586777870396/fgg.PNG)
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734452585037168680/dzrfe.png)
 
