@@ -65,5 +65,5 @@ npm i figlet
 
 🇫🇷/🇺🇸: Resultat/Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733688583528906772/Test.png)
 
-#### 🌸 By Lys 🌸
+#### 🌸 By LysEnFleur 🌸
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/726367564921307136/e743b3682bd2273be931161694f5a899.gif)
