@@ -16,7 +16,7 @@ This is done in self-bot mode. So there is a risk of banishment. I invite you to
 
 🇫🇷 Ce dont vous avez besoin pour installer le logiciel et comment l'installer.
 
-🇺🇸 What things you need to install the software and how to install them.
+🇺🇸 🇸What things you need to install the software and how to install them.
 
 ```
 Node.js 
@@ -41,6 +41,8 @@ npm i figlet
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734452895445155920/REGRGR.PNG)
 
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/735172586777870396/fgg.PNG)
+
+🇫🇷/🇺🇸 Exemple/Example of setup :
 
 ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/735176581756223608/github.jpg)
 
