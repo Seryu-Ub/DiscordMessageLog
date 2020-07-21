@@ -2,7 +2,11 @@
       
     "token":"Token_Here (The token of a user not of a bot)",
     
+    "embedcolor":"Color Hex",
+
+    
     "serveursniped":"[ID] The spy server",
+
     
     "channelsniped":"[ID] The spy channel",
 
