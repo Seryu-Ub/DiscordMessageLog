@@ -63,7 +63,7 @@ npm i figlet
 
 ### 🍨 Example 🍨
 
-🇫🇷/🇺🇸: Resultat/Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733688583528906772/Test.png)
+🇫🇷/🇺🇸: Resultat/Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/736705983232999514/grthyjyjyjygtgth.PNG)
 
 #### 🌸 By LysEnFleur 🌸
 
