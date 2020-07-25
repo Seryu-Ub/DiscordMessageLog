@@ -53,13 +53,13 @@ npm i figlet
 
 🇺🇸 You have at your disposal a "start.bat" which will automatically launch the program. 
 
-![alt text](https://cdn.discordapp.com/attachments/688355222304587791/736706013650092112/efrgtht.PNG)
+![alt text](https://cdn.discordapp.com/attachments/688355222304587791/733684772101947432/eftht.PNG)
 
 🇫🇷 Si vous avez tout fait correctement vous devriez voir s'afficher ceci.
 
 🇺🇸 If you have done everything correctly you should see this.
 
-![alt text](https://cdn.discordapp.com/attachments/727474203804041288/734454808685314098/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/688355222304587791/736706013650092112/efrgtht.PNG)
 
 ### 🍨 Example 🍨
 
