@@ -9,7 +9,7 @@
 🇫🇷 Ces instructions vous permettront d'obtenir une copie du projet sur votre machine à des fins de développement et de test. Voir la partie "setup" pour des informations sur la façon de déployer le projet sur votre pc.
 Cela se fait en mode "self-bot". **Il y a donc un risque de bannissement**. Je vous invite à utiliser un deuxième compte. 
 
-🇺🇸 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the "Setup" section for notes on how to deploy the project on your computer.
+🇺🇸 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the "setup" section for notes on how to deploy the project on your computer.
 This is done in self-bot mode. **So there is a risk of banishment**. I invite you to use a second account. 
 
 ### 📋 Prerequisites 📋 
