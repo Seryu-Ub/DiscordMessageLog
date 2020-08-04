@@ -59,7 +59,7 @@ npm i figlet
 
 🇺🇸 If you have done everything correctly you should see this.
 
-![alt text](https://cdn.discordapp.com/attachments/688355222304587791/736706013650092112/efrgtht.PNG)
+![alt text](https://cdn.discordapp.com/attachments/727474203804041288/740283617917403146/unknown.png)
 
 ### 🍨 Example 🍨
 
