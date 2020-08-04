@@ -16,7 +16,7 @@ This is done in self-bot mode. **So there is a risk of banishment**. I invite yo
 
 🇫🇷 Ce dont vous avez besoin pour installer le logiciel et comment l'installer.
 
-🇺🇸 🇸What things you need to install the software and how to install them.
+🇺🇸 What things you need to install the software and how to install them.
 
 ```
 Node.js 
