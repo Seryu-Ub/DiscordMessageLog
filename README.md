@@ -67,4 +67,4 @@ npm i figlet
 
 #### 🌸 Finish 🌸
 
-![alt text](https://cdn.discordapp.com/attachments/688355222304587791/726367564921307136/e743b3682bd2273be931161694f5a899.gif)
+![alt text](https://cdn.discordapp.com/attachments/727474203804041288/740253811607863296/ertgthyjy.gif)
