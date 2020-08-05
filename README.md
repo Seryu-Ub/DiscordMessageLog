@@ -23,7 +23,7 @@ Node.js
 ```
 Npm : 
 ```
-npm i discord.js@15.1.5
+npm i discord.js@11.5.1
 ```
 ```
 npm i colors
