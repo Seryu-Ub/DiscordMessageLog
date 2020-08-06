@@ -1,6 +1,5 @@
 # DiscordMessageLog
 
-
 ![Active](https://img.shields.io/badge/langage-97%25%20Js%20%2F%203%25%20Bat-informational)
 ![Active](https://img.shields.io/badge/French%20%2F%20English-50%25%20%2F%2050%25-ff69b4)
 ![Active](https://img.shields.io/badge/Quality-C-blueviolet) 
