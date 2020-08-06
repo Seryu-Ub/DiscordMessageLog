@@ -8,11 +8,11 @@
 
 🇫🇷 Ces instructions vous permettront d'obtenir une copie du projet sur votre machine à des fins de développement et de test. Voir la partie "setup" pour des informations sur la façon de déployer le projet sur votre pc.
 Cela se fait en mode "self-bot". **Il y a donc un risque de bannissement**. Je vous invite à utiliser un deuxième compte.
-** faut bien sûr que le compte que vous utilisez pour espionner soit sur les deux serveurs, sur celui ou vous voulez recupérer les messages, et la ou vous voulez les recevoir**
+**Faut bien sûr que le compte que vous utilisez pour espionner soit sur les deux serveurs, sur celui ou vous voulez recupérer les messages, et la ou vous voulez les recevoir**
 
 🇺🇸 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the "setup" section for notes on how to deploy the project on your computer.
 This is done in self-bot mode. **So there is a risk of banishment**. I invite you to use a second account.
-** course, the account you use to spy must be on both servers, on the one where you want to retrieve the messages, and the one where you want to receive them.**
+**Of course, the account you use to spy must be on both servers, on the one where you want to retrieve the messages, and the one where you want to receive them.**
 
 ### 📋 Prerequisites 📋 
 
