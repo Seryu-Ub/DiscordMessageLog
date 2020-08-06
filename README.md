@@ -1,12 +1,13 @@
 # DiscordMessageLog
 
-🇫🇷 🌷 Un outil de récupération des messages en javascript for Discord 🌷
-
-🇺🇸 🌷 A in javascript message retriever for Discord 🌷
 
 ![Active](https://img.shields.io/badge/langage-97%25%20Js%20%2F%203%25%20Bat-informational)
 ![Active](https://img.shields.io/badge/French%20%2F%20English-50%25%20%2F%2050%25-ff69b4)
 ![Active](https://img.shields.io/badge/Quality-C-blueviolet) 
+
+🇫🇷 🌷 Un outil de récupération des messages en javascript for Discord 🌷
+
+🇺🇸 🌷 A in javascript message retriever for Discord 🌷
 
 ## 🌈 Getting Started 🌈
 
