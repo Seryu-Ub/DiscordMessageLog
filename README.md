@@ -1,4 +1,6 @@
-# DiscordMessageLog
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/656474352560111636/743261203023003758/CNB9.gif">
+
+# ☀ DiscordMessageLog ☀
 
 ![Active](https://img.shields.io/badge/langage-97%25%20Js%20%2F%203%25%20Bat-informational)
 ![Active](https://img.shields.io/badge/French%20%2F%20English-50%25%20%2F%2050%25-ff69b4)
