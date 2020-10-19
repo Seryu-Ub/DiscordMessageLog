@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/656474352560111636/743261203023003758/CNB9.gif">
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/763335463020396574/767844245594701834/efrrgrgt.gif">
 
 # ☀ DiscordMessageLog ☀
 
