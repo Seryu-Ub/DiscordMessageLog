@@ -75,4 +75,4 @@ npm i figlet
 
 #### 🌸 Finish 🌸
 
-![alt text](https://cdn.discordapp.com/attachments/727474203804041288/740253811607863296/ertgthyjy.gif)
+![alt text](https://cdn.discordapp.com/attachments/763335463020396574/767844885469331518/1504497348_tumblr_on7clpbVRE1tmp0dno1_500.gif)
