@@ -45,7 +45,3 @@ If you have done everything correctly you should see this.
 ### Example 
 
 Resultat/Result : ![alt text](https://cdn.discordapp.com/attachments/688355222304587791/736705983232999514/grthyjyjyjygtgth.PNG)
-
-#### Finish 
-
-![alt text](https://cdn.discordapp.com/attachments/763335463020396574/767844885469331518/1504497348_tumblr_on7clpbVRE1tmp0dno1_500.gif)
